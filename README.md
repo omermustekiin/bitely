@@ -80,6 +80,8 @@ Analyze your progress with detailed statistics.
  ### Watch Introduction Video
 [<img src="https://i.ytimg.com/vi/8RfcUEa6E5g/maxresdefault.jpg" width="50%">](https://www.youtube.com/watch?v=ALo_WC7EcjM "Click and watch")
 
+[<img src="https://i.ytimg.com/an_webp/BhhXYvFUKus/mqdefault_6s.webp?du=3000&sqp=CLTxu68G&rs=AOn4CLD_kLRzkm9IV1rMNgm_vGb3xLNrvQ" width="50%">](https://www.youtube.com/watch?v=BhhXYvFUKus "Click and watch") 
+
 
 ### View or Download the App
 <table>
