@@ -1,8 +1,6 @@
 # Bitely
 
-
-
-### What awaits you in the Bitely universe?
+Bitely is an artificial intelligence supported e-learning application that includes many modules and features, allowing you to read your content whenever and wherever you want, with your personalized schedule, during the daily period you set.
 
 #### *Interesting categories*
 
