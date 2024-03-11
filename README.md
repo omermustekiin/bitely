@@ -2,7 +2,7 @@
 
 ### What awaits you in the Bitely universe?
 
-*Interesting categories*
+#### *Interesting categories*
 
 You can pick from 27 categories from Economy, Philosophy to History on Bitely and decide which
 
@@ -65,11 +65,6 @@ Analyze your progress with detailed statistics.
  
 <table>
   <tr>
-     <td>Gold Screen</td>
-     <td>Alarm Screen</td>
-     <td>Converter Screen</td>
-  </tr>
-  <tr>
     <td><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/8a/77/97/8a77975a-5549-0ee9-71d3-b03233ad5b3e/3aca40c2-763e-4164-a41d-250d419fe5c3_4.png/230x0w.webp"></td>
     <td><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/9d/d0/72/9dd07281-999d-00cd-0edd-be2c8a73c270/3f06fa20-ba30-462d-a85e-244b505c9e94_5.png/230x0w.webp"></td>
     <td><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/aa/3b/58/aa3b58f5-768c-6b9e-1790-3ef00018cf21/4d642bcb-3235-4ac9-895c-e2f2e1c37c21_6.png/230x0w.webp"></td>
@@ -77,11 +72,6 @@ Analyze your progress with detailed statistics.
  </table>
  
  <table>
-  <tr>
-     <td>Bracelet Models Screen</td>
-     <td>Follow List Screen</td>
-     <td>Contact Us Screen</td>
-  </tr>
   <tr>
     <td><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/c6/70/ea/c670ea7a-23f7-d545-addf-315ab808fd16/11f66d2f-010a-49a3-b2b1-337477d16df4_7.png/230x0w.webp"></td>
   </tr>
