@@ -61,8 +61,8 @@ Analyze your progress with detailed statistics.
      <td>Side Menu Bar</td>
   </tr>
   <tr>
-    <td><img src="https://play-lh.googleusercontent.com/8WgeVFAflUI54XK2NtrkmcS0Qm7gPjmn2n3MRM3b20bAy3mY4g2yLO7WhoAiJUoPEgg=w526-h296-rw"></td>
-    <td><img src=https://play-lh.googleusercontent.com/W-G7H4u_OtVOHjxvZNMzPzaDVqyJXYG04JewNFWjF6F1dHRmCmWBDB2K-ylLZcG8Quw=w526-h296-rw"></td>
+    <td><img src="https://play-lh.googleusercontent.com/8WgeVFAflUI54XK2NtrkmcS0Qm7gPjmn2n3MRM3b20bAy3mY4g2yLO7WhoAiJUoPEgg=w526-h296-rw"width=290 height=300></td>
+    <td><img src="https://play-lh.googleusercontent.com/W-G7H4u_OtVOHjxvZNMzPzaDVqyJXYG04JewNFWjF6F1dHRmCmWBDB2K-ylLZcG8Quw=w526-h296-rw"width=290 height=300></td>
     <td><img src="https://play-lh.googleusercontent.com/b51uvYuFWEyPaQXh5pHZfZf1dORr4K10pU46E-3aulZ8eBM4zqXWjwPt6fZULp1zd8o=w526-h296-rw"></td>
   </tr>
  </table>
