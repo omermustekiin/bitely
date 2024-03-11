@@ -1,5 +1,3 @@
-![image](https://github.com/omermustekiin/bitely/assets/57271156/cb175665-0474-4a8b-ad3a-e583bfb6d15c)# Bitely
-
 What awaits you in the Bitely universe?
 
 *Interesting categories*
