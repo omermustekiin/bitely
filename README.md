@@ -56,8 +56,9 @@ Analyze your progress with detailed statistics.
 
 <table>
   <tr>
-    <td><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/de/fa/ff/defaff9a-844a-9138-e34e-7acf545ff197/a783aa66-c684-45ee-9ecd-6d986ffb40d7_1.png/230x0w.webp"width=250 height=500></td>
+    <td><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/de/fa/ff/defaff9a-844a-9138-e34e-7acf545ff197/a783aa66-c684-45ee-9ecd-6d986ffb40d7_1.png/230x0w.webp"></td>
     <td><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/b1/06/7b/b1067bf4-ddb9-daea-c53f-a19363d9dc0b/5a0c50e0-428b-4240-97d4-d82ec7306175_2.png/230x0w.webp"></td>
+    <td><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/6c/a2/73/6ca273de-c2ee-cc47-162d-a708454b5393/7db79d35-c13b-4924-9042-24af0cf0b972_3.png/230x0w.webp"></td>
   </tr>
  </table>
  
@@ -69,7 +70,7 @@ Analyze your progress with detailed statistics.
      <td>Converter Screen</td>
   </tr>
   <tr>
-    <td><img src="https://play-lh.googleusercontent.com/RPcHQ_7Fg_7uWpEjv4al0g95psRq-6RofjKNbG7oL82KZ92kdHyAPcv_yeya-J4LU9_R=w526-h296-rw" width=290 height=500></td>
+    <td><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/8a/77/97/8a77975a-5549-0ee9-71d3-b03233ad5b3e/3aca40c2-763e-4164-a41d-250d419fe5c3_4.png/230x0w.webp"></td>
     <td><img src="https://play-lh.googleusercontent.com/sgRcj2hTmoNQRlQ6e9DvcDP8FOMFRYtWVh2FYFOrC7IsEYD6dSfECgM4ggDBZDfVVqyD=w526-h296-rw" width=290 height=500></td>
     <td><img src="https://play-lh.googleusercontent.com/1Przp8eWeeTwyallmJ59iwfa62M0ZSGmnfojAl9nDwnr55nJL4apnKYQiRDirOjesaM=w2560-h1440-rw" width=290 height=500></td>
   </tr>
