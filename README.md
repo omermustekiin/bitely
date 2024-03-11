@@ -56,14 +56,8 @@ Analyze your progress with detailed statistics.
 
 <table>
   <tr>
-     <td>Welcome Screen</td>
-     <td>Home Screen</td>
-     <td>Side Menu Bar</td>
-  </tr>
-  <tr>
     <td><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/de/fa/ff/defaff9a-844a-9138-e34e-7acf545ff197/a783aa66-c684-45ee-9ecd-6d986ffb40d7_1.png/230x0w.webp"width=250 height=500></td>
-    <td><img src="https://play-lh.googleusercontent.com/W-G7H4u_OtVOHjxvZNMzPzaDVqyJXYG04JewNFWjF6F1dHRmCmWBDB2K-ylLZcG8Quw=w526-h296-rw"width=250 height=500></td>
-    <td><img src="https://play-lh.googleusercontent.com/b51uvYuFWEyPaQXh5pHZfZf1dORr4K10pU46E-3aulZ8eBM4zqXWjwPt6fZULp1zd8o=w526-h296-rw"></td>
+    <td><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/b1/06/7b/b1067bf4-ddb9-daea-c53f-a19363d9dc0b/5a0c50e0-428b-4240-97d4-d82ec7306175_2.png/230x0w.webp"></td>
   </tr>
  </table>
  
