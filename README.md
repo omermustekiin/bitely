@@ -1,5 +1,7 @@
 # Bitely
 
+
+
 ### What awaits you in the Bitely universe?
 
 #### *Interesting categories*
@@ -89,10 +91,12 @@ Analyze your progress with detailed statistics.
      <td>App Logo</td>
      <td>Google Play Store</td>
      <td>App Store</td>
+     <td>Web Site</td>
   </tr>
   <tr>
     <td><img src="https://play-lh.googleusercontent.com/UqqqUu5D9hwVSSUZtGap6ex7J3apVKogAWG3WWpFO9MYgBoFqsM-igSiZqHucYRrAn8=w240-h480-rw" width=150 height=160></td>
     <td><a href="https://play.google.com/store/apps/details?id=com.bitely.ai&hl=en"><img src="https://yt3.googleusercontent.com/UlCw6skRB67meHd_jffAzV6DeXzAk1YzEFyhxI4meSgYAjA0wRhEnhT3TfHvuo7R-VwISzRTTao=s900-c-k-c0x00ffffff-no-rj" width=150 height=160></img></a></td>
     <td><a href="https://apps.apple.com/tr/app/bitely/id1644387147?l=en"><img src="https://www.apple.com/v/app-store/b/images/overview/icon_appstore__ev0z770zyxoy_large_2x.png" width=150 height=160></img></a></td>
+    <td><a href="https://bitely.ai/"><img src="https://cdn-icons-png.flaticon.com/512/5602/5602732.png" width=150 height=160></img></a></td>
   </tr>
  </table>
