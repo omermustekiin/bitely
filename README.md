@@ -1,57 +1,55 @@
-# Bitely
+![image](https://github.com/omermustekiin/bitely/assets/57271156/cb175665-0474-4a8b-ad3a-e583bfb6d15c)# Bitely
 
 What awaits you in the Bitely universe?
 
-- Interesting categories
+*Interesting categories*
 
 You can pick from 27 categories from Economy, Philosophy to History on Bitely and decide which
 
 topic you’d like to improve yourself.
 
 
-- Summaries of best-selling books
+*Summaries of best-selling books*
 
 You can easily keep up with your learning goals by reading the summaries of the most popular books
 
 you’ve been eagerly waiting for.
 
 
-- Personalized learning plans
+*Personalized learning plans*
 
 On Bitely, you can learn everything you need in your own style with the help of personalized learning
 
 plans.
 
 
-- Detailed statistics.
+*Detailed statistics*
 
 You can track how much you’ve improved in your favorite categories with Bitely's detailed and
 
 constantly updated statistics.
 
 
-- Daily goals list
+*Daily goals list*
 
 On Bitely, you’ll start every day with a new goal. With this method, you will be able to boost your
 
 personal growth with maximum efficiency.
 
 
-Set your own limits on Bitely!
+*Set your own limits on Bitely!*
 
+Pick your goal
 
-- Pick your goal
+Find out your level
 
-- Find out your level
+Choose your categories
 
-- Choose your categories
+Read or listen to book summaries
 
-- Read or listen to book summaries
+Take quizzes
 
-- Take quizzes
-
-- Analyze your progress with detailed statistics.
-
+Analyze your progress with detailed statistics.
 
 
 ### Images
@@ -63,9 +61,9 @@ Set your own limits on Bitely!
      <td>Side Menu Bar</td>
   </tr>
   <tr>
-    <td><img src="https://play-lh.googleusercontent.com/6EinVFx0RU1SZxm5dkijT5bvq5j-G2BMvyZaAQAznPMsUwEAWnVex85Z4CgiLnBidRa1=w2560-h1440-rw" width=320 height=500></td>
-    <td><img src="https://play-lh.googleusercontent.com/eIhcL3wpLkox4CZm0v8AEe2ydQbNCHOMHhzUCR7dwxSJ5J7nY3hcbBto7BM0NBwM5A=w2560-h1440-rw" width=290 height=500></td>
-    <td><img src="https://play-lh.googleusercontent.com/9sIaaHg2d8-9nGJB9uFVQrKTtLebVUzL8KZIWjGIsx33qLOmDNqjyVWU_upiWtSeAH3a=w2560-h1440-rw" width=290 height=500></td>
+    <td><img src="https://play-lh.googleusercontent.com/8WgeVFAflUI54XK2NtrkmcS0Qm7gPjmn2n3MRM3b20bAy3mY4g2yLO7WhoAiJUoPEgg=w526-h296-rw" width=320 height=500></td>
+    <td><img src=https://play-lh.googleusercontent.com/W-G7H4u_OtVOHjxvZNMzPzaDVqyJXYG04JewNFWjF6F1dHRmCmWBDB2K-ylLZcG8Quw=w526-h296-rw"" width=290 height=500></td>
+    <td><img src="https://play-lh.googleusercontent.com/b51uvYuFWEyPaQXh5pHZfZf1dORr4K10pU46E-3aulZ8eBM4zqXWjwPt6fZULp1zd8o=w526-h296-rw" width=290 height=500></td>
   </tr>
  </table>
  
@@ -77,8 +75,8 @@ Set your own limits on Bitely!
      <td>Converter Screen</td>
   </tr>
   <tr>
-    <td><img src="https://play-lh.googleusercontent.com/siHXcDHY7pQbpNYCzXZUdxohOhT2yhzN-Rs9QxL90A8yht46M3hQ7cqVW4yMC15I52g5=w2560-h1440-rw" width=290 height=500></td>
-    <td><img src="https://play-lh.googleusercontent.com/jwi16e9Ch3FnKiZnEq_4h1hiU32y3W0jfTY9nH92GkKYSfX_dS2RHf82NVPIEO_tzUU=w2560-h1440-rw" width=290 height=500></td>
+    <td><img src="https://play-lh.googleusercontent.com/RPcHQ_7Fg_7uWpEjv4al0g95psRq-6RofjKNbG7oL82KZ92kdHyAPcv_yeya-J4LU9_R=w526-h296-rw" width=290 height=500></td>
+    <td><img src="https://play-lh.googleusercontent.com/sgRcj2hTmoNQRlQ6e9DvcDP8FOMFRYtWVh2FYFOrC7IsEYD6dSfECgM4ggDBZDfVVqyD=w526-h296-rw" width=290 height=500></td>
     <td><img src="https://play-lh.googleusercontent.com/1Przp8eWeeTwyallmJ59iwfa62M0ZSGmnfojAl9nDwnr55nJL4apnKYQiRDirOjesaM=w2560-h1440-rw" width=290 height=500></td>
   </tr>
  </table>
