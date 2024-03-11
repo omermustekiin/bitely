@@ -1,38 +1,56 @@
 # Bitely
 
-Celebi Altin is a live stock market application created with Flutter. I took part in all stages from design to testing alone and after a 2 month process, i published the first version of the application for both store.
+What awaits you in the Bitely universe?
 
-In this project i used Provider package for state management and Shared Preferences & Hive & Firebase for data storage.
+- Interesting categories
 
-This project receives txt type data by establishing a TCP socket connection with the API and processes it through models, presenting an instantly updated data screen to the user.
+You can pick from 27 categories from Economy, Philosophy to History on Bitely and decide which
 
-### Features
+topic you’d like to improve yourself.
 
-- Live exchange rates in different categories,
 
-- Alarm generation and local notifications,
+- Summaries of best-selling books
 
-- Two different converters for both gold and exchange rates,
+You can easily keep up with your learning goals by reading the summaries of the most popular books
 
-- Current and Fixed option follow-up lists,
+you’ve been eagerly waiting for.
 
-- Calculator that can save past calculations,
 
-- Bracelet Models page that works dynamically with the database,
+- Personalized learning plans
 
-- Dynamic product screen (Bracelet Models) created by utilizing Firebase Storage,
+On Bitely, you can learn everything you need in your own style with the help of personalized learning
 
-- Authentication module only for necessary transactions,
+plans.
 
-- User account transactions,
 
-- Status and error management with different informative message and warning dialogs for all situations,
+- Detailed statistics.
 
-- Update informative with application version control,
+You can track how much you’ve improved in your favorite categories with Bitely's detailed and
 
-- Various animation and transition features
+constantly updated statistics.
 
-- Powerful and user-friendly interface and more...
+
+- Daily goals list
+
+On Bitely, you’ll start every day with a new goal. With this method, you will be able to boost your
+
+personal growth with maximum efficiency.
+
+
+Set your own limits on Bitely!
+
+
+- Pick your goal
+
+- Find out your level
+
+- Choose your categories
+
+- Read or listen to book summaries
+
+- Take quizzes
+
+- Analyze your progress with detailed statistics.
 
 
 
