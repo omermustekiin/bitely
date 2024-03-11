@@ -9,35 +9,35 @@ You can pick from 27 categories from Economy, Philosophy to History on Bitely an
 topic you’d like to improve yourself.
 
 
-*Summaries of best-selling books*
+#### *Summaries of best-selling books*
 
 You can easily keep up with your learning goals by reading the summaries of the most popular books
 
 you’ve been eagerly waiting for.
 
 
-*Personalized learning plans*
+#### *Personalized learning plans*
 
 On Bitely, you can learn everything you need in your own style with the help of personalized learning
 
 plans.
 
 
-*Detailed statistics*
+#### *Detailed statistics*
 
 You can track how much you’ve improved in your favorite categories with Bitely's detailed and
 
 constantly updated statistics.
 
 
-*Daily goals list*
+#### *Daily goals list*
 
 On Bitely, you’ll start every day with a new goal. With this method, you will be able to boost your
 
 personal growth with maximum efficiency.
 
 
-*Set your own limits on Bitely!*
+#### *Set your own limits on Bitely!*
 
 Pick your goal
 
@@ -78,7 +78,7 @@ Analyze your progress with detailed statistics.
  </table>
  
  ### Watch Introduction Video
-[<img src="https://i.ytimg.com/vi/8RfcUEa6E5g/maxresdefault.jpg" width="50%">](https://www.youtube.com/watch?v=8RfcUEa6E5g "Click and watch")
+[<img src="https://i.ytimg.com/vi/8RfcUEa6E5g/maxresdefault.jpg" width="50%">](https://www.youtube.com/watch?v=ALo_WC7EcjM "Click and watch")
 
 
 ### View or Download the App
