@@ -78,7 +78,7 @@ Analyze your progress with detailed statistics.
  </table>
  
  ### Watch Introduction Videos
-(https://www.youtube.com/watch?v=ALo_WC7EcjM "Click and watch") 
+[<width="30%">](https://www.youtube.com/watch?v=ALo_WC7EcjM "Click and watch") 
 
 [<img src="https://i.ytimg.com/an_webp/BhhXYvFUKus/mqdefault_6s.webp?du=3000&sqp=CLTxu68G&rs=AOn4CLD_kLRzkm9IV1rMNgm_vGb3xLNrvQ" width="30%">](https://www.youtube.com/watch?v=BhhXYvFUKus "Click and watch") 
 
